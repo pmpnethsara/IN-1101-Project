@@ -2,7 +2,7 @@
 
 ## Contributors 
 
-- Nethmina H.G.S.
+- Nethsara M.D.K.
 - Nethsara P.M.P.
 - Neththikumara V.W.
 - Nimalsha W.H.S.
