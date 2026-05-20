@@ -1,4 +1,4 @@
-# IN 1101 - Proramming Fundamentals   <img src="C.png" alt="C lang" width="40">
+# IN 1101 - Programming Fundamentals   <img src="C.png" alt="C lang" width="40">
 
 ## Contributors 
 
