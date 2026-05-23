@@ -7,3 +7,13 @@
 - Neththikumara V.W.
 - Nimalsha W.H.S.
 - Niriella K.A.K.C
+
+##Disaster Relief & Recue Coordination System
+#Main Structures 
+ -Victim Registry
+ -Rescue Teams
+ -Supply Management
+ -Shelter Camps
+ -Incident Reports
+
+
