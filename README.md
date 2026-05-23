@@ -9,7 +9,7 @@
 - Niriella K.A.K.C
 
 ## Disaster Relief & Recue Coordination System
-# Main Structures 
+### Main Structures 
  - Victim Registry
  - Rescue Teams
  - Supply Management
