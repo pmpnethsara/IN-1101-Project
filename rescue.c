@@ -15,7 +15,7 @@ int main () {
     do{
 
         printf("\n================= RESCUE COORDINATION SYSTEM ==================\n");
-        printf("1. Add New Books To A Library \n");
+        printf("1. victim registry \n");
         printf("2. Rescue Teams \n");
         printf("3. Supply Management \n");
         printf("4. Shelter Camps \n");
